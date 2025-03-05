@@ -1,0 +1,19 @@
+For frontend
+
+npm install jszip file-saver
+
+npm install axios
+
+
+For backend
+
+pip install flask flask-cors pymupdf
+
+pip install flask-cors
+
+pip install pdf2image pymupdf
+
+pip install flask pdf2image werkzeug
+
+venv\Scripts\activate  
+
