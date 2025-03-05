@@ -8,7 +8,7 @@ A simple web application that converts PDFs to images using Flask (backend) and 
 - Axios - API Requests
 - PyMuPDF (for PDF to Image conversion)
 
-## 🚀 Setup
+## 🚀 Setup (You can install all needed from the Follow Me.txt
 
 ### 1️⃣ Backend (Flask API)
 ```sh
