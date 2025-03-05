@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+venv/
+__pycache__/
+*.pyc
+
+# Ignore Node modules
+pdf-to-image-fe/node_modules/
+pdf-to-image-fe/.next/
+pdf-to-image-fe/build/
+
+# Ignore environment files
+.env
