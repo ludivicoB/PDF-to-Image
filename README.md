@@ -1,6 +1,6 @@
 # PDF to Image Converter 🖼️
 
-A web application that converts PDFs to images using Flask (backend) and React (frontend).
+A simple web application that converts PDFs to images using Flask (backend) and React (frontend).
 
 ## 🛠️ Technologies Used
 - Flask (Python) - Backend API
