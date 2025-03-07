@@ -4,6 +4,9 @@ npm install jszip file-saver
 
 npm install axios
 
+npm install concurrently --save-dev
+
+
 
 For backend
 
